@@ -1,3 +1,9 @@
+# Lista inicial de productos
+productos = ["Laptop", "Mouse", "Teclado", "Monitor", "Impresora"]
+
+# Mostrar los productos registrados
+print("INVENTARIO INICIAL")
+
 for producto in productos:
     print(producto)
 
